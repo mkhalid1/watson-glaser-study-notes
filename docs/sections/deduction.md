@@ -59,7 +59,7 @@ Deduction items are short but need care. As guidance: about 30 to 40 seconds per
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from the Watson-Glaser or any publisher's materials. Treat every premise as true without exception.
+These 5 items are original, written for these notes. They are not taken from the Watson-Glaser or any publisher's materials. Treat every premise as true without exception.
 
 ### Set 1
 
@@ -69,93 +69,49 @@ These 12 items are original, written for these notes. They are not taken from th
 
 **Item 2.** Everyone who attends the Monday briefing is a trainee in the disputes team.
 
-**Item 3.** No trainee on client secondment misses the Monday briefing.
-
 <details>
-<summary>Answers and explanations, items 1 to 3</summary>
+<summary>Answers and explanations, items 1 and 2</summary>
 
 **Item 1: Follows.** The disputes trainees who are on secondment are still disputes trainees, and all disputes trainees attend. So at least those secondees attend.
 
 **Item 2: Does not follow.** This reverses the first premise. Partners, associates or trainees from other teams could also attend.
 
-**Item 3: Does not follow.** The premises only cover secondees from the disputes team. A trainee from another team could be on secondment and miss the briefing.
-
 </details>
+
+Want more? The free timed Watson-Glaser practice test on PrepClubs has the full 40 questions, scored by section: [Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser).
 
 ### Set 2
 
-> No contract signed after 1 March includes the old liability clause. The Harlow contract includes the old liability clause.
-
-**Item 4.** The Harlow contract was not signed after 1 March.
-
-**Item 5.** The Harlow contract was signed before 1 March.
-
-**Item 6.** Every contract signed before 1 March includes the old liability clause.
-
-<details>
-<summary>Answers and explanations, items 4 to 6</summary>
-
-**Item 4: Follows.** If it had been signed after 1 March, it could not include the old clause. It does include it, so it was not signed after 1 March.
-
-**Item 5: Does not follow.** "Not after 1 March" leaves two other possibilities: signed *on* 1 March, or not signed at all (a draft). The premises do not rule either out.
-
-**Item 6: Does not follow.** The premises say nothing about contracts signed before 1 March except that the Harlow contract may be one of them. Others could lack the clause.
-
-</details>
-
-### Set 3
-
 > If the client approves the budget by Friday, the team will start work on Monday. The team will not start work on Monday.
 
-**Item 7.** The client will not approve the budget by Friday.
+**Item 3.** The client will not approve the budget by Friday.
 
-**Item 8.** The client has rejected the budget.
+**Item 4.** The client has rejected the budget.
 
-**Item 9.** The team will start work on Tuesday.
-
-<details>
-<summary>Answers and explanations, items 7 to 9</summary>
-
-**Item 7: Follows.** Approval by Friday guarantees a Monday start. There will be no Monday start, so there cannot be approval by Friday.
-
-**Item 8: Does not follow.** All the premises tell you is that approval will not come by Friday. The client could still be reviewing the budget, or approve it next week. Not approving in time is not the same as rejecting.
-
-**Item 9: Does not follow.** Nothing in the premises mentions Tuesday or any other start date.
-
-</details>
-
-### Set 4
-
-> Some partners speak French. Every partner who speaks French has worked in the Paris office.
-
-**Item 10.** Some partners have worked in the Paris office.
-
-**Item 11.** Some partners have not worked in the Paris office.
-
-**Item 12.** At least one partner who has worked in the Paris office speaks French.
+**Item 5.** The team will start work on Tuesday.
 
 <details>
-<summary>Answers and explanations, items 10 to 12</summary>
+<summary>Answers and explanations, items 3 to 5</summary>
 
-**Item 10: Follows.** At least one partner speaks French, and every French-speaking partner has worked in Paris. So at least one partner has worked in Paris.
+**Item 3: Follows.** Approval by Friday guarantees a Monday start. There will be no Monday start, so there cannot be approval by Friday.
 
-**Item 11: Does not follow.** "Some partners speak French" could mean all of them do, in which case all of them have worked in Paris. This is the "some means possibly all" rule.
+**Item 4: Does not follow.** All the premises tell you is that approval will not come by Friday. The client could still be reviewing the budget, or approve it next week. Not approving in time is not the same as rejecting.
 
-**Item 12: Follows.** The French-speaking partners exist and have all worked in Paris, so at least one Paris-experienced partner speaks French. Note the difference from "everyone who worked in Paris speaks French", which would not follow.
+**Item 5: Does not follow.** Nothing in the premises mentions Tuesday or any other start date.
 
 </details>
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | F | DNF | DNF | F | DNF | DNF | F | DNF | DNF | F | DNF | F |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | F | DNF | F | DNF | DNF |
 
 F = follows, DNF = does not follow.
 
-- **11 to 12:** your logic is solid. Watch for speed in the real test.
-- **8 to 10:** check the "common forms" table against each miss. Most errors are a reversed "all" or a misread "some".
-- **7 or fewer:** draw every premise set as circles for a week of practice. It builds the instinct quickly.
+- **5:** your logic is solid. Watch for speed in the real test.
+- **4:** check the "common forms" table against each miss. Most errors are a reversed "all" or a misread "some".
+- **3 or fewer:** draw every premise set as circles for a week of practice. It builds the instinct quickly.
 
 ## Next step
 

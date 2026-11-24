@@ -1,13 +1,13 @@
 # Watson-Glaser Study Notes
 
-A free, complete study guide for the Watson-Glaser Critical Thinking Appraisal: how the test works, a clear method for each of the five sections, 75 original practice items with full explanations, how scoring really works, and study plans for a week or a weekend. Written for anyone facing the test, with a dedicated guide for UK law applicants sitting it for a training contract or vacation scheme. Facts about the test come only from Pearson TalentLens and employers' own pages, each one [cited](docs/sources.md).
+A free, complete study guide for the Watson-Glaser Critical Thinking Appraisal: how the test works, a clear method for each of the five sections, 35 original practice items with full explanations, how scoring really works, and study plans for a week or a weekend. Written for anyone facing the test, with a dedicated guide for UK law applicants sitting it for a training contract or vacation scheme. Facts about the test come only from Pearson TalentLens and employers' own pages, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser), or the shorter [10-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
-1. **Find your weak sections.** Take the [15-minute diagnostic](docs/diagnostic.md). It has three items from each section and tells you where to start.
-2. **Fix the weakest section first.** Open its guide below, learn the rule and the method, then do its 12 practice items.
+1. **Find your weak sections.** Take the [10-minute diagnostic](docs/diagnostic.md). It has two items from each section and tells you where to start.
+2. **Fix the weakest section first.** Open its guide below, learn the rule and the method, then do its 5 practice items.
 3. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your test link has already arrived.
 
 ## Quick facts
@@ -36,7 +36,7 @@ Sources: [Pearson TalentLens](https://www.talentlens.com/watson-glaser.html) and
 | Interpretation | Whether a conclusion follows beyond reasonable doubt | Follows, Does not follow | [Interpretation](docs/sections/interpretation.md) |
 | Evaluation of arguments | Whether an argument is strong or weak | Strong, Weak | [Arguments](docs/sections/evaluation-of-arguments.md) |
 
-Every section guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 12 original practice items with explanations, and a score table.
+Every section guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 5 original practice items with explanations, and a score table.
 
 ## Contents
 
@@ -52,7 +52,7 @@ Every section guide has the same parts: what it measures, how the questions look
   - [Versions you may hear about](docs/test-overview.md#versions-you-may-hear-about)
   - [The one rule that runs through the whole test](docs/test-overview.md#the-one-rule-that-runs-through-the-whole-test)
   - [Practise the real format](docs/test-overview.md#practise-the-real-format)
-- [15-minute diagnostic](docs/diagnostic.md)
+- [10-minute diagnostic](docs/diagnostic.md)
   - [Part A: Inference](docs/diagnostic.md#part-a-inference)
   - [Part B: Recognising assumptions](docs/diagnostic.md#part-b-recognising-assumptions)
   - [Part C: Deduction](docs/diagnostic.md#part-c-deduction)
@@ -176,7 +176,7 @@ Every section guide has the same parts: what it measures, how the questions look
 
 ## About the practice items
 
-All 75 practice items are original, written for these notes. None are taken from the Watson-Glaser, from Pearson's materials or from any prep site. They follow the published rules of each section so that the method you learn here transfers to the real test.
+All 35 practice items (25 in the section guides and 10 in the diagnostic) are original, written for these notes. None are taken from the Watson-Glaser, from Pearson's materials or from any prep site. They follow the published rules of each section so that the method you learn here transfers to the real test.
 
 ## Contributing
 

@@ -71,7 +71,7 @@ Pearson lists UK English, US English, French, French Canadian, Dutch, Spanish an
 
 ## Where can I practise for free?
 
-- The practice items in each section guide in this repo, plus the [15-minute diagnostic](diagnostic.md)
+- The practice items in each section guide in this repo, plus the [10-minute diagnostic](diagnostic.md)
 - [Pearson's free practice test](https://www.talentlens.com/practice-tests.html)
 - The [free timed Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser)
 

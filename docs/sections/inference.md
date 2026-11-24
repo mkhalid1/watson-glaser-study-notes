@@ -1,4 +1,4 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Recognising assumptions](recognising-assumptions.md)<!-- /nav:top -->
+<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [10-minute diagnostic](../diagnostic.md) · Next: [Recognising assumptions](recognising-assumptions.md)<!-- /nav:top -->
 
 # Inference
 
@@ -55,92 +55,57 @@ Inference passages are dense and each one carries several statements, so the rea
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from the Watson-Glaser or any publisher's materials. Each passage has four statements. Answer all four, then open the explanations.
+These 5 items are original, written for these notes. They are not taken from the Watson-Glaser or any publisher's materials. Each passage has two or three statements. Answer each one, then open the explanations.
 
 ### Passage 1
 
 > A regional law firm opened a second office in Leeds in 2022, alongside its original office in Sheffield. Since then, the firm's annual trainee intake has risen from six to ten. Four of the ten trainees in the latest intake are starting their first seat in the Leeds office. The managing partner told staff this year that the Leeds office now brings in more new clients each month than the Sheffield office.
 
-**Item 1.** The firm had at least two offices in 2023.
+**Item 1.** The Leeds office earns more fee income than the Sheffield office.
 
-**Item 2.** Most trainees in the latest intake are not starting their first seat in the Leeds office.
-
-**Item 3.** The Leeds office earns more fee income than the Sheffield office.
-
-**Item 4.** The opening of the Leeds office was a reason for the rise in trainee numbers.
+**Item 2.** The opening of the Leeds office was a reason for the rise in trainee numbers.
 
 <details>
-<summary>Answers and explanations, items 1 to 4</summary>
+<summary>Answers and explanations, items 1 and 2</summary>
 
-**Item 1: True.** The Leeds office opened in 2022 and is still operating ("now brings in more new clients"), and the Sheffield office is described as the original office and is still being compared today. Both existed in 2023 beyond reasonable doubt. *Why not Probably True:* there is no realistic reading of the facts in which the firm had only one office in 2023.
+**Item 1: Insufficient Data.** The passage compares *new clients per month*, not fee income. Sheffield has years of existing clients, and new clients may be small or large. Nothing tips the balance. *Why not Probably True:* more new clients is a different measure from more income, and the established office could easily earn more.
 
-**Item 2: True.** Four of ten trainees start in Leeds, so six of ten start elsewhere. Six of ten is most. *Why not Probably True:* this is arithmetic on stated numbers, not a likelihood.
-
-**Item 3: Insufficient Data.** The passage compares *new clients per month*, not fee income. Sheffield has years of existing clients, and new clients may be small or large. Nothing tips the balance. *Why not Probably True:* more new clients is a different measure from more income, and the established office could easily earn more.
-
-**Item 4: Probably True.** The rise in intake began when the Leeds office opened, the rise is four trainees, and four trainees now start in Leeds. That points strongly to the new office driving the increase. *Why not True:* the firm could have grown for other reasons at the same time, such as a new practice area, so the facts do not prove the link. *Why not Insufficient Data:* the timing and the matching numbers are real evidence.
+**Item 2: Probably True.** The rise in intake began when the Leeds office opened, the rise is four trainees, and four trainees now start in Leeds. That points strongly to the new office driving the increase. *Why not True:* the firm could have grown for other reasons at the same time, such as a new practice area, so the facts do not prove the link. *Why not Insufficient Data:* the timing and the matching numbers are real evidence.
 
 </details>
+
+Want more? The free timed Watson-Glaser practice test on PrepClubs has the full 40 questions, scored by section: [Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser).
 
 ### Passage 2
 
 > A supermarket chain trialled self-service tills in 40 of its 300 stores for six months. In the trial stores, the average queuing time at peak hours fell from nine minutes to four. Staff in those stores were moved from the tills to restocking shelves, and none were made redundant. The chain has said it will review the results before deciding whether to extend the trial.
 
-**Item 5.** The chain has already decided to install self-service tills in all of its stores.
+**Item 3.** The chain has already decided to install self-service tills in all of its stores.
 
-**Item 6.** During the trial, customers in the trial stores spent less time queuing at peak hours than they did before it.
+**Item 4.** During the trial, customers in the trial stores spent less time queuing at peak hours than they did before it.
 
-**Item 7.** The number of staff employed in the trial stores fell during the trial.
-
-**Item 8.** Peak queuing times also fell in the 260 stores outside the trial.
+**Item 5.** The number of staff employed in the trial stores fell during the trial.
 
 <details>
-<summary>Answers and explanations, items 5 to 8</summary>
+<summary>Answers and explanations, items 3 to 5</summary>
 
-**Item 5: False.** The chain says it will review the results *before deciding* whether to extend the trial. A decision to roll out everywhere contradicts that. *Why not Probably False:* this is a direct contradiction, not just an unlikely claim.
+**Item 3: False.** The chain says it will review the results *before deciding* whether to extend the trial. A decision to roll out everywhere contradicts that. *Why not Probably False:* this is a direct contradiction, not just an unlikely claim.
 
-**Item 6: True.** Average peak queuing time fell from nine minutes to four in the trial stores. *Why not Probably True:* the passage states it as a measured result.
+**Item 4: True.** Average peak queuing time fell from nine minutes to four in the trial stores. *Why not Probably True:* the passage states it as a measured result.
 
-**Item 7: Probably False.** Staff were moved to other work and none were made redundant, so the trial was not used to cut jobs. *Why not False:* people can leave a job for other reasons, such as moving house or retiring, so the headcount could still have dipped. The facts make a fall unlikely, not impossible.
-
-**Item 8: Insufficient Data.** The passage gives no information at all about the other 260 stores. *Why not Probably False:* the silence is not evidence that their queues stayed the same.
-
-</details>
-
-### Passage 3
-
-> In a council survey of 2,000 adult residents of a city, 62% said they supported banning private cars from the city centre on Saturdays. Support was highest among residents under 30 and lowest among owners of city-centre businesses. The council has said it will not act on the survey alone and will hold a public consultation next spring.
-
-**Item 9.** Residents who drive into the city centre on Saturdays were less likely than other respondents to support the ban.
-
-**Item 10.** The council will bring in the Saturday ban next spring.
-
-**Item 11.** Residents under 30 were more likely to support the ban than city-centre business owners were.
-
-**Item 12.** The survey will be the only evidence the council uses in its decision.
-
-<details>
-<summary>Answers and explanations, items 9 to 12</summary>
-
-**Item 9: Probably True.** The passage does not mention drivers. But it is common knowledge that people tend to support a rule less when it directly restricts them, and the test allows that kind of widely shared knowledge for the "probably" labels. *Why not True:* some drivers may support the ban, for example for cleaner air, and the passage gives no figures for them. *Why not Insufficient Data:* general knowledge about how people react to restrictions does give a lean here.
-
-**Item 10: Probably False.** The council will hold its consultation next spring and will not act on the survey alone. Bringing in the ban in the same season as the consultation is unlikely. *Why not False:* nothing rules out a quick decision after an early-spring consultation, so the facts do not contradict it outright.
-
-**Item 11: True.** Support was *highest* among under-30s and *lowest* among business owners, so under-30s were more likely to support it. *Why not Probably True:* "highest" and "lowest" settle the comparison.
-
-**Item 12: False.** The council says it will not act on the survey alone and will run a consultation. *Why not Probably False:* the statement directly contradicts what the council said.
+**Item 5: Probably False.** Staff were moved to other work and none were made redundant, so the trial was not used to cut jobs. *Why not False:* people can leave a job for other reasons, such as moving house or retiring, so the headcount could still have dipped. The facts make a fall unlikely, not impossible.
 
 </details>
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | T | T | ID | PT | F | T | PF | ID | PT | PF | T | F |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | ID | PT | F | T | PF |
 
-- **11 to 12:** your inference instincts are sound. Spend your time on the two-option sections.
-- **8 to 10:** look at which pairs you confused. Most people lose marks on T versus PT or ID versus PT. Reread the method, step 6.
-- **7 or fewer:** go back to the five-label table and say the rule for each label out loud before every answer, until it becomes automatic.
+- **5:** your inference instincts are sound. Spend your time on the two-option sections.
+- **4:** look at which pairs you confused. Most people lose marks on T versus PT or ID versus PT. Reread the method, step 6.
+- **3 or fewer:** go back to the five-label table and say the rule for each label out loud before every answer, until it becomes automatic.
 
 ## Next step
 
@@ -152,4 +117,4 @@ Inference feels very different under time pressure. Try it inside a full timed r
 
 ---
 
-<!-- nav:bottom -->← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Recognising assumptions](recognising-assumptions.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->← Previous: [10-minute diagnostic](../diagnostic.md) | Next: [Recognising assumptions](recognising-assumptions.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->

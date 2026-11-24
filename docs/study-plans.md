@@ -2,14 +2,14 @@
 
 # Study plans
 
-Two plans: one for a week, one for when the invitation has already arrived. Both assume you start with the [15-minute diagnostic](diagnostic.md) so you know your weak sections. Expect about 45 to 90 minutes a day on the 7-day plan.
+Two plans: one for a week, one for when the invitation has already arrived. Both assume you start with the [10-minute diagnostic](diagnostic.md) so you know your weak sections. Expect about 45 to 90 minutes a day on the 7-day plan.
 
 ## 7-day plan
 
 | Day | Focus | What to do |
 |---|---|---|
 | 1 | Baseline | Read the [test overview](test-overview.md). Take the [diagnostic](diagnostic.md). Note your two weakest sections. |
-| 2 | Inference | Read the [inference guide](sections/inference.md). Do all 12 items. For every miss, write one line: which label you chose, the right label, and why. |
+| 2 | Inference | Read the [inference guide](sections/inference.md). Do all 5 items. For every miss, write one line: which label you chose, the right label, and why. |
 | 3 | Assumptions and arguments | Read the [assumptions](sections/recognising-assumptions.md) and [arguments](sections/evaluation-of-arguments.md) guides. Do both item sets. These two areas carry 24 of the 40 items. |
 | 4 | Deduction and interpretation | Read the [deduction](sections/deduction.md) and [interpretation](sections/interpretation.md) guides. Learn the deduction "common forms" table until you can write it from memory. |
 | 5 | First timed run | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser). Score it by section. Read the [timing guide](timing.md). |
@@ -34,7 +34,7 @@ For when the test link has arrived and the deadline is close. Firms often give o
 
 | Block | Time | What to do |
 |---|---|---|
-| 1 | 15 min | Take the [diagnostic](diagnostic.md). |
+| 1 | 10 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 20 min | Read the "How the questions look" and "Traps" parts of all five section guides. Skip the rest for now. |
 | 3 | 40 min | Do the practice items for your two weakest sections. Read every explanation, including the ones you got right. |
 | 4 | 30 min | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser). |

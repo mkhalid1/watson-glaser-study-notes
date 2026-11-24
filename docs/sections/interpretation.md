@@ -56,7 +56,7 @@ Interpretation passages often contain numbers. As guidance: allow up to 45 secon
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from the Watson-Glaser or any publisher's materials. Assume everything in each paragraph is true.
+These 5 items are original, written for these notes. They are not taken from the Watson-Glaser or any publisher's materials. Assume everything in each paragraph is true.
 
 ### Paragraph 1
 
@@ -79,80 +79,36 @@ These 12 items are original, written for these notes. They are not taken from th
 
 </details>
 
+Want more? The free timed Watson-Glaser practice test on PrepClubs has the full 40 questions, scored by section: [Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser).
+
 ### Paragraph 2
-
-> A training contract applicant sat five online tests. She scored in the top quarter of applicants on four of them and in the bottom half on the verbal reasoning test.
-
-**Item 4.** Compared with other applicants, her weakest result was on the verbal reasoning test.
-
-**Item 5.** She will not be offered a training contract.
-
-**Item 6.** She spent less time preparing for the verbal reasoning test than for the others.
-
-<details>
-<summary>Answers and explanations, items 4 to 6</summary>
-
-**Item 4: Follows.** Four results were in the top quarter of applicants and one was in the bottom half. Relative to other applicants, the bottom-half result is the weakest.
-
-**Item 5: Does not follow.** The paragraph says nothing about how the firm uses these results or what else it considers. This is a prediction the data cannot support.
-
-**Item 6: Does not follow.** Nothing is said about preparation. The weaker result could have many causes.
-
-</details>
-
-### Paragraph 3
-
-> In a trial at three hospitals, patients chosen at random to receive a phone call from a nurse two days after discharge were readmitted within 30 days less often (8%) than similar patients who were not called (12%).
-
-**Item 7.** In this trial, patients who were called had a lower 30-day readmission rate than patients who were not called.
-
-**Item 8.** A call from a nurse two days after discharge would reduce readmissions at every hospital in the country.
-
-**Item 9.** Some patients who received the call were still readmitted within 30 days.
-
-<details>
-<summary>Answers and explanations, items 7 to 9</summary>
-
-**Item 7: Follows.** 8% against 12% is a direct reading of the results.
-
-**Item 8: Does not follow.** The trial covered three hospitals. "Every hospital in the country" is a much wider group, and hospitals differ in patients and services.
-
-**Item 9: Follows.** 8% of called patients were readmitted. 8% of a real patient group is more than zero people.
-
-</details>
-
-### Paragraph 4
 
 > A law firm surveyed its 200 trainees and junior associates about their development. 45% responded. Of those who responded, 70% said they wanted more feedback at the end of each seat.
 
-**Item 10.** Fewer than half of the trainees and junior associates responded to the survey.
+**Item 4.** Most of the firm's 200 trainees and junior associates want more feedback at the end of each seat.
 
-**Item 11.** Most of the firm's 200 trainees and junior associates want more feedback at the end of each seat.
-
-**Item 12.** At least 60 respondents said they wanted more feedback at the end of each seat.
+**Item 5.** At least 60 respondents said they wanted more feedback at the end of each seat.
 
 <details>
-<summary>Answers and explanations, items 10 to 12</summary>
+<summary>Answers and explanations, items 4 and 5</summary>
 
-**Item 10: Follows.** 45% is fewer than half.
+**Item 4: Does not follow.** 45% of 200 is 90 respondents, and 70% of 90 is 63 people. 63 out of 200 is not most. The 110 who did not respond could think anything.
 
-**Item 11: Does not follow.** 45% of 200 is 90 respondents, and 70% of 90 is 63 people. 63 out of 200 is not most. The 110 who did not respond could think anything.
-
-**Item 12: Follows.** 70% of 90 is 63, which is at least 60.
+**Item 5: Follows.** 70% of 90 is 63, which is at least 60.
 
 </details>
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | F | DNF | DNF | F | DNF | DNF | F | DNF | F | F | DNF | F |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | F | DNF | DNF | DNF | F |
 
 F = follows, DNF = does not follow.
 
-- **11 to 12:** good judgment on scope. Keep doing the arithmetic, never estimate.
-- **8 to 10:** look for a pattern: did you let conclusions widen the group, or skip a calculation?
-- **7 or fewer:** before each conclusion, say aloud what the data measured and of whom. Most misses vanish once you do.
+- **5:** good judgment on scope. Keep doing the arithmetic, never estimate.
+- **4:** look for a pattern: did you let conclusions widen the group, or skip a calculation?
+- **3 or fewer:** before each conclusion, say aloud what the data measured and of whom. Most misses vanish once you do.
 
 ## Next step
 

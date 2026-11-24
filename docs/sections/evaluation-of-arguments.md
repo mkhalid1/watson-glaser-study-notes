@@ -50,7 +50,7 @@ Arguments are short, so this is a section where you can bank time. As guidance: 
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from the Watson-Glaser or any publisher's materials. Treat each argument as true.
+These 5 items are original, written for these notes. They are not taken from the Watson-Glaser or any publisher's materials. Treat each argument as true.
 
 ### Question 1
 
@@ -73,84 +73,40 @@ These 12 items are original, written for these notes. They are not taken from th
 
 </details>
 
+Want more? The free timed Watson-Glaser practice test on PrepClubs has the full 40 questions, scored by section: [Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser).
+
 ### Question 2
-
-> Should every secondary school in the UK teach a compulsory course on personal finance?
-
-**Item 4.** Yes. Many young adults take on debt without understanding how interest works, and a course would help them avoid costly mistakes.
-
-**Item 5.** No. Some teachers find personal finance a dull subject to teach.
-
-**Item 6.** Yes. Schools in other countries teach many subjects that UK schools do not.
-
-<details>
-<summary>Answers and explanations, items 4 to 6</summary>
-
-**Item 4: Strong.** Avoiding costly debt mistakes is an important benefit to the general welfare, and it is directly what such a course would address.
-
-**Item 5: Weak.** Teachers' enjoyment is a minor consideration next to what students gain or lose.
-
-**Item 6: Weak.** That other countries teach different subjects says nothing about whether *this* subject would benefit UK pupils. It is not directly related.
-
-</details>
-
-### Question 3
 
 > Should the voting age in UK general elections be lowered to 16?
 
-**Item 7.** Yes. Sixteen-year-olds who work can already pay income tax, and people who pay tax should have a say in how it is spent.
+**Item 4.** No. Most 16-year-olds have never seen a ballot paper.
 
-**Item 8.** No. Most 16-year-olds have never seen a ballot paper.
-
-**Item 9.** No. In other important areas, such as buying alcohol or serving on a jury, the law does not treat 16-year-olds as adults, and voting should come with the same adult status.
+**Item 5.** No. In other important areas, such as buying alcohol or serving on a jury, the law does not treat 16-year-olds as adults, and voting should come with the same adult status.
 
 <details>
-<summary>Answers and explanations, items 7 to 9</summary>
+<summary>Answers and explanations, items 4 and 5</summary>
 
-**Item 7: Strong.** The link between paying tax and having a vote is a serious principle, and it applies directly to 16-year-olds.
+**Item 4: Weak.** Not having seen a ballot paper is trivial. Every new voter of any age sees one for the first time, and it is easily explained.
 
-**Item 8: Weak.** Not having seen a ballot paper is trivial. Every new voter of any age sees one for the first time, and it is easily explained.
-
-**Item 9: Strong.** Whether 16-year-olds should be treated as adults is the core of the question, and consistency with how the law treats them elsewhere bears directly on it. You may have a reply, for example that ages differ for good reasons, but a reply does not make the argument weak.
-
-</details>
-
-### Question 4
-
-> Should UK employers be banned from asking job applicants about their previous salary?
-
-**Item 10.** Yes. Basing offers on past pay can carry earlier pay gaps, such as those between men and women, into new jobs.
-
-**Item 11.** No. Some applicants are happy to share their salary history.
-
-**Item 12.** Yes. Salary history questions make application forms a little longer.
-
-<details>
-<summary>Answers and explanations, items 10 to 12</summary>
-
-**Item 10: Strong.** Carrying unfair pay gaps from job to job is an important harm, and asking about past pay is exactly the mechanism described.
-
-**Item 11: Weak.** A ban on employers *asking* is about pressure on applicants who do not want to share. That some people would share anyway is minor and does not address the main concern.
-
-**Item 12: Weak.** A slightly longer form is a trivial point next to the fairness issues at stake.
+**Item 5: Strong.** Whether 16-year-olds should be treated as adults is the core of the question, and consistency with how the law treats them elsewhere bears directly on it. You may have a reply, for example that ages differ for good reasons, but a reply does not make the argument weak.
 
 </details>
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | S | W | S | S | W | W | S | W | S | S | W | W |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | S | W | S | W | S |
 
 S = strong, W = weak.
 
-- **11 to 12:** you separate weight from opinion well.
-- **8 to 10:** check whether your misses cluster on one side of a question. If so, your own view may be leaking in.
-- **7 or fewer:** go through the method slowly with the sentence "Suppose that is correct" before every argument.
+- **5:** you separate weight from opinion well.
+- **4:** check whether your misses cluster on one side of a question. If so, your own view may be leaking in.
+- **3 or fewer:** go through the method slowly with the sentence "Suppose that is correct" before every argument.
 
 ## Next step
 
-Before your next practice session, pick the question in this page you felt most strongly about and redo its three items arguing from the opposite side. Then take a timed run with the [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser).
+Before your next practice session, pick the question in this page you felt most strongly about and redo its items arguing from the opposite side. Then take a timed run with the [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser).
 
 ---
 
