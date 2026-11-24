@@ -162,4 +162,6 @@ Practise spotting overreach in fresh passages with the [free Watson-Glaser pract
 
 ---
 
+---
+
 <!-- nav:bottom -->← Previous: [Deduction](deduction.md) | Next: [Evaluation of arguments](evaluation-of-arguments.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->

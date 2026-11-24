@@ -2,7 +2,7 @@
 
 # For law applicants: training contracts and vacation schemes
 
-If you are applying for a training contract, a vacation scheme or a solicitor apprenticeship at a UK firm, there is a good chance you will meet the Watson-Glaser. This page covers what changes for you compared with a general candidate.
+If you are applying for a training contract, a vacation scheme or a solicitor apprenticeship at a UK firm, you may be asked to sit the Watson-Glaser, as Clifford Chance's applicants are. This page covers what changes for you compared with a general candidate.
 
 ## Where it sits in a typical process
 
@@ -48,6 +48,8 @@ Pearson's efficacy report also cites research comparing Watson-Glaser scores wit
 ## Practise before you apply
 
 The [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser) gives you a full timed run. Take one before your first application goes in, so the real link does not catch you cold.
+
+---
 
 ---
 

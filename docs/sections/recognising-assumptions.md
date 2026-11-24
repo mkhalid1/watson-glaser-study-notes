@@ -150,4 +150,6 @@ Twelve of the forty items sit in this area, so it repays practice. Test yourself
 
 ---
 
+---
+
 <!-- nav:bottom -->← Previous: [Inference](inference.md) | Next: [Deduction](deduction.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->

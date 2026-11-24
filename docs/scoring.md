@@ -65,4 +65,6 @@ Some firms keep a passed score for a period instead of asking you to resit. Clif
 
 ---
 
+---
+
 <!-- nav:bottom -->← Previous: [Evaluation of arguments](sections/evaluation-of-arguments.md) | Next: [Timing and pacing](timing.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->

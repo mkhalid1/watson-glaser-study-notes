@@ -40,4 +40,6 @@ Source for the item count and time range: [Pearson TalentLens](https://www.talen
 
 ---
 
+---
+
 <!-- nav:bottom -->← Previous: [How scoring works](scoring.md) | Next: [Study plans: 7 days and 2 days](study-plans.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->

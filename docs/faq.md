@@ -30,7 +30,7 @@ Good means above the threshold of the employer you are applying to, against the 
 
 ## Which law firms use the Watson-Glaser?
 
-UK law firms are among its best-known users, for training contract and vacation scheme applications. Clifford Chance, for example, describes the test on its [London hiring page](https://jobs.cliffordchance.com/how-we-hire-london). Firms change their assessments between cycles, so the only reliable source for any firm is its own careers page.
+Law firms use it for training contract and vacation scheme applications. Clifford Chance, for example, describes the test on its [London hiring page](https://jobs.cliffordchance.com/how-we-hire-london). Firms change their assessments between cycles, so the only reliable source for any firm is its own careers page.
 
 ## Does CMS (or DLA Piper, or another firm) use the Watson-Glaser?
 
@@ -74,6 +74,8 @@ Pearson lists UK English, US English, French, French Canadian, Dutch, Spanish an
 - The practice items in each section guide in this repo, plus the [15-minute diagnostic](diagnostic.md)
 - [Pearson's free practice test](https://www.talentlens.com/practice-tests.html)
 - The [free timed Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser)
+
+---
 
 ---
 

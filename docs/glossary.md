@@ -47,4 +47,6 @@ Terms you will meet on the test, in score reports and in these notes.
 
 ---
 
+---
+
 <!-- nav:bottom -->← Previous: [FAQ](faq.md) | Next: [Sources](sources.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
