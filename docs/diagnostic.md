@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The Watson-Glaser test explained](test-overview.md) · Next: [Inference](sections/inference.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [The Watson-Glaser test explained](test-overview.md) · Next: [Inference](sections/inference.md)
+<!-- /nav:top -->
 
 # 10-minute diagnostic
 
@@ -103,4 +105,6 @@ Then pick a plan: the [7-day plan](study-plans.md#7-day-plan) if you have a week
 
 ---
 
-<!-- nav:bottom -->← Previous: [The Watson-Glaser test explained](test-overview.md) | Next: [Inference](sections/inference.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [The Watson-Glaser test explained](test-overview.md) | Next: [Inference](sections/inference.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

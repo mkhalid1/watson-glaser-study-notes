@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [10-minute diagnostic](../diagnostic.md) · Next: [Recognising assumptions](recognising-assumptions.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [10-minute diagnostic](../diagnostic.md) · Next: [Recognising assumptions](recognising-assumptions.md)
+<!-- /nav:top -->
 
 # Inference
 
@@ -117,4 +119,6 @@ Inference feels very different under time pressure. Try it inside a full timed r
 
 ---
 
-<!-- nav:bottom -->← Previous: [10-minute diagnostic](../diagnostic.md) | Next: [Recognising assumptions](recognising-assumptions.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [10-minute diagnostic](../diagnostic.md) | Next: [Recognising assumptions](recognising-assumptions.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

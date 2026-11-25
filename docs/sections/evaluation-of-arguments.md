@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Interpretation](interpretation.md) · Next: [How scoring works](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Interpretation](interpretation.md) · Next: [How scoring works](../scoring.md)
+<!-- /nav:top -->
 
 # Evaluation of arguments
 
@@ -114,4 +116,6 @@ Before your next practice session, pick the question in this page you felt most 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Interpretation](interpretation.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Interpretation](interpretation.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

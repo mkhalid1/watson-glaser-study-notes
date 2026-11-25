@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [For law applicants](law-applicants.md) · Next: [FAQ](faq.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [For law applicants](law-applicants.md) · Next: [FAQ](faq.md)
+<!-- /nav:top -->
 
 # Test-day checklist
 
@@ -52,4 +54,6 @@ If you have a day or more, one more timed run is the best use of it: the [free W
 
 ---
 
-<!-- nav:bottom -->← Previous: [For law applicants](law-applicants.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [For law applicants](law-applicants.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

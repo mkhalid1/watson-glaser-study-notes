@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Inference](inference.md) · Next: [Deduction](deduction.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Inference](inference.md) · Next: [Deduction](deduction.md)
+<!-- /nav:top -->
 
 # Recognising assumptions
 
@@ -108,4 +110,6 @@ Twelve of the forty items sit in this area, so it repays practice. Test yourself
 
 ---
 
-<!-- nav:bottom -->← Previous: [Inference](inference.md) | Next: [Deduction](deduction.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Inference](inference.md) | Next: [Deduction](deduction.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

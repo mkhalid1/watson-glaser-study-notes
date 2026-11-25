@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Recognising assumptions](recognising-assumptions.md) · Next: [Interpretation](interpretation.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Recognising assumptions](recognising-assumptions.md) · Next: [Interpretation](interpretation.md)
+<!-- /nav:top -->
 
 # Deduction
 
@@ -123,4 +125,6 @@ The same six or seven forms from the table above make up most deduction items. O
 
 ---
 
-<!-- nav:bottom -->← Previous: [Recognising assumptions](recognising-assumptions.md) | Next: [Interpretation](interpretation.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Recognising assumptions](recognising-assumptions.md) | Next: [Interpretation](interpretation.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

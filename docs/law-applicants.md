@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Study plans: 7 days and 2 days](study-plans.md) · Next: [Test-day checklist](test-day-checklist.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Study plans: 7 days and 2 days](study-plans.md) · Next: [Test-day checklist](test-day-checklist.md)
+<!-- /nav:top -->
 
 # For law applicants: training contracts and vacation schemes
 
@@ -55,4 +57,6 @@ The [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-p
 
 ---
 
-<!-- nav:bottom -->← Previous: [Study plans: 7 days and 2 days](study-plans.md) | Next: [Test-day checklist](test-day-checklist.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Study plans: 7 days and 2 days](study-plans.md) | Next: [Test-day checklist](test-day-checklist.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->
