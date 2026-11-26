@@ -71,7 +71,7 @@ These 5 items are original, written for these notes. They are not taken from the
 
 </details>
 
-Want more? The free timed Watson-Glaser practice test on PrepClubs has the full 40 questions, scored by section: [Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser).
+Want more? The free timed Watson-Glaser practice test on PrepClubs has the full 40 questions, scored by section: [Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=pvdq3r&utm_content=watson-glaser).
 
 ### Statement 2
 
@@ -102,7 +102,7 @@ Want more? The free timed Watson-Glaser practice test on PrepClubs has the full 
 
 ## Next step
 
-Twelve of the forty items sit in this area, so it repays practice. Test yourself on fresh statements in the [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser).
+Twelve of the forty items sit in this area, so it repays practice. Test yourself on fresh statements in the [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=pvdq3r&utm_content=watson-glaser).
 
 ---
 

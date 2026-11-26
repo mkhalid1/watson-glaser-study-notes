@@ -80,7 +80,7 @@ These 5 items are original, written for these notes. They are not taken from the
 
 </details>
 
-Want more? The free timed Watson-Glaser practice test on PrepClubs has the full 40 questions, scored by section: [Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser).
+Want more? The free timed Watson-Glaser practice test on PrepClubs has the full 40 questions, scored by section: [Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=pvdq3r&utm_content=watson-glaser).
 
 ### Set 2
 
@@ -117,7 +117,7 @@ F = follows, DNF = does not follow.
 
 ## Next step
 
-The same six or seven forms from the table above make up most deduction items. Once you can spot them in under ten seconds, test the speed in a timed run with the [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser).
+The same six or seven forms from the table above make up most deduction items. Once you can spot them in under ten seconds, test the speed in a timed run with the [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=pvdq3r&utm_content=watson-glaser).
 
 ---
 

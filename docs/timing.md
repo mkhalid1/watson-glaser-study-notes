@@ -34,7 +34,7 @@ The average hides a big spread. Argument and assumption items are short. Inferen
 
 ## Practise against the clock
 
-Untimed practice teaches the rules. Timed practice teaches you what 45 seconds feels like. Do at least one full timed run before the real test, ideally two, with a day between them. The [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser) is timed and covers all five sections.
+Untimed practice teaches the rules. Timed practice teaches you what 45 seconds feels like. Do at least one full timed run before the real test, ideally two, with a day between them. The [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=pvdq3r&utm_content=watson-glaser) is timed and covers all five sections.
 
 Source for the item count and time range: [Pearson TalentLens](https://www.talentlens.com/watson-glaser.html).
 

@@ -2,7 +2,7 @@
 
 A free, complete study guide for the Watson-Glaser Critical Thinking Appraisal: how the test works, a clear method for each of the five sections, 35 original practice items with full explanations, how scoring really works, and study plans for a week or a weekend. Written for anyone facing the test, with a dedicated guide for UK law applicants sitting it for a training contract or vacation scheme. Facts about the test come only from Pearson TalentLens and employers' own pages, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser), or the shorter [10-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=pvdq3r&utm_content=watson-glaser), or the shorter [10-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -171,7 +171,7 @@ Every section guide has the same parts: what it measures, how the questions look
 - **Test yourself honestly.** Answers are hidden under "Answers and explanations". Commit to an answer before you open them.
 - **Read every explanation,** including for items you got right. Most explanations say why the nearest wrong answer is wrong, which is where the learning is.
 - **Keep a miss log.** For each miss, write the rule you broke. The [study plans](docs/study-plans.md#how-to-review-a-missed-item) show how.
-- **Practise timed.** The notes teach the rules. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser), teaches the pace.
+- **Practise timed.** The notes teach the rules. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=pvdq3r&utm_content=watson-glaser), teaches the pace.
 - **Clone or fork it** if you want to annotate your own copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice items

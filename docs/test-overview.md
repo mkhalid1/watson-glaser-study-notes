@@ -65,7 +65,7 @@ Treat the passage as true and work only from it. The test is not asking what you
 
 ## Practise the real format
 
-Reading about the rules helps, but timing only improves with timed practice. The [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser) runs all five sections against the clock.
+Reading about the rules helps, but timing only improves with timed practice. The [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=pvdq3r&utm_content=watson-glaser) runs all five sections against the clock.
 
 ---
 

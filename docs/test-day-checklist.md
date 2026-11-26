@@ -46,7 +46,7 @@ Most Watson-Glaser tests are taken online, at home, in a window the employer set
 
 ## Last practice before the real one
 
-If you have a day or more, one more timed run is the best use of it: the [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser).
+If you have a day or more, one more timed run is the best use of it: the [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=pvdq3r&utm_content=watson-glaser).
 
 ---
 

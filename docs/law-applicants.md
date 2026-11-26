@@ -49,7 +49,7 @@ Pearson's efficacy report also cites research comparing Watson-Glaser scores wit
 
 ## Practise before you apply
 
-The [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser) gives you a full timed run. Take one before your first application goes in, so the real link does not catch you cold.
+The [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=pvdq3r&utm_content=watson-glaser) gives you a full timed run. Take one before your first application goes in, so the real link does not catch you cold.
 
 ---
 

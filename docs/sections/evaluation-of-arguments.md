@@ -75,7 +75,7 @@ These 5 items are original, written for these notes. They are not taken from the
 
 </details>
 
-Want more? The free timed Watson-Glaser practice test on PrepClubs has the full 40 questions, scored by section: [Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser).
+Want more? The free timed Watson-Glaser practice test on PrepClubs has the full 40 questions, scored by section: [Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=pvdq3r&utm_content=watson-glaser).
 
 ### Question 2
 
@@ -108,7 +108,7 @@ S = strong, W = weak.
 
 ## Next step
 
-Before your next practice session, pick the question in this page you felt most strongly about and redo its items arguing from the opposite side. Then take a timed run with the [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=watson-glaser).
+Before your next practice session, pick the question in this page you felt most strongly about and redo its items arguing from the opposite side. Then take a timed run with the [free Watson-Glaser practice test on PrepClubs](https://prepclubs.com/free-practice-tests/watson-glaser?utm_source=github&utm_medium=referral&utm_campaign=pvdq3r&utm_content=watson-glaser).
 
 ---
 
